@@ -1,0 +1,4 @@
+- New storyline with custom campaign like showing Image, Video, Url web page and HTML formatted content.
+- New analytic data based new storyline.
+- Comply with current Cubeacon SaaS v1.3.0.
+- Support Android 5.0 Lollipop.
